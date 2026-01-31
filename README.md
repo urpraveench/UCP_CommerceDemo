@@ -457,58 +457,7 @@ git pull origin main
 pip install -e . --upgrade
 ```
 
-## 🎨 LinkedIn Post Suggestions
 
-### Post Option 1: Technical Deep Dive
-```
-🚀 Just built a working prototype of Google's Universal Commerce Protocol (UCP)!
-
-UCP is the open-source standard that powers agentic commerce - enabling AI agents to discover products, create checkout sessions, and complete purchases seamlessly.
-
-What I built:
-✅ Business profile discovery endpoint
-✅ Product discovery API
-✅ Complete checkout flow with discounts
-✅ Interactive web UI
-
-This is the future of commerce - where AI agents can shop on your behalf across any platform! 
-
-#UCP #AgenticCommerce #AI #ECommerce #Google #OpenSource
-```
-
-### Post Option 2: Demo-Focused
-```
-🎯 Check out my UCP prototype - demonstrating the future of AI-powered commerce!
-
-Built a full-stack demo showing how businesses can integrate with Universal Commerce Protocol to enable seamless shopping through AI agents like Google's Gemini.
-
-Key features:
-• AI agents discover business capabilities automatically
-• Real-time product search and checkout
-• Discount code application
-• UCP-compliant API responses
-
-The protocol is open-source and backed by major retailers. This is how commerce will work in the age of AI! 🛍️
-
-#UCP #AICommerce #TechDemo #ECommerce
-```
-
-### Post Option 3: Educational
-```
-📚 Exploring Universal Commerce Protocol (UCP) - the standard that's revolutionizing agentic commerce.
-
-UCP solves the N×N integration problem by providing a single protocol for businesses to connect with AI platforms. Instead of building custom integrations for each surface, you implement UCP once and agents can discover your products, handle checkout, and complete purchases.
-
-Built a prototype to understand how it works:
-• Business profile endpoint (/.well-known/ucp)
-• Product discovery API
-• Checkout session management
-• Web UI for demonstration
-
-The protocol is open-source and already endorsed by 20+ partners including Shopify, Target, and Walmart.
-
-#UCP #OpenSource #ECommerce #AI #TechEducation
-```
 
 ## 🤝 Contributing
 
