@@ -1,0 +1,2072 @@
+[
+  {
+    "id": "laptop_pro_16",
+    "title": "Laptop Pro 16",
+    "description": "Experience unparalleled performance with the Laptop Pro 16. This high-performance laptop features a stunning 16-inch Retina display, powerful Intel Core i7 processor, 16GB of unified memory, and a lightning-fast 512GB SSD. Perfect for professionals, creators, and power users who demand the best. With up to 18 hours of battery life, you can work all day without interruption. The sleek aluminum design is both beautiful and durable, making it the perfect companion for your on-the-go lifestyle.",
+    "price": 129900,
+    "currency": "USD",
+    "image_url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400&h=400&fit=crop",
+    "category": "Electronics",
+    "in_stock": true,
+    "technical_info": {
+      "Processor": "Intel Core i7 (12th Gen)",
+      "RAM": "16GB Unified Memory",
+      "Storage": "512GB SSD",
+      "Display": "16-inch Retina Display (3456 x 2234)",
+      "Graphics": "Integrated Intel Iris Xe",
+      "Battery": "Up to 18 hours",
+      "Operating System": "Windows 11 Pro",
+      "Weight": "4.3 lbs (1.95 kg)",
+      "Ports": "2x Thunderbolt 4, 1x USB-A, 1x HDMI, 1x Headphone jack",
+      "Wireless": "Wi-Fi 6E, Bluetooth 5.2"
+    },
+    "average_rating": 4.6,
+    "rating_count": 127,
+    "comments": [
+      {
+        "author": "Sarah M.",
+        "rating": 5,
+        "text": "Absolutely love this laptop! The display is stunning and the performance is incredible. Perfect for my video editing work. Battery life is amazing too.",
+        "date": "2024-01-15",
+        "verified_purchase": true
+      },
+      {
+        "author": "Michael T.",
+        "rating": 4,
+        "text": "Great laptop overall. The build quality is excellent and it's very fast. Only minor complaint is the fan can get a bit loud under heavy load, but that's expected.",
+        "date": "2024-01-10",
+        "verified_purchase": true
+      },
+      {
+        "author": "Jennifer L.",
+        "rating": 5,
+        "text": "Best laptop I've ever owned. The screen is gorgeous and the keyboard is a joy to type on. Highly recommend for anyone looking for a premium laptop.",
+        "date": "2024-01-08",
+        "verified_purchase": true
+      },
+      {
+        "author": "David K.",
+        "rating": 4,
+        "text": "Solid performance and great build quality. The battery life is impressive. Only wish it had more USB ports, but that's a minor issue.",
+        "date": "2024-01-05",
+        "verified_purchase": true
+      },
+      {
+        "author": "Emily R.",
+        "rating": 5,
+        "text": "Perfect for my needs as a software developer. Fast, reliable, and the display is perfect for coding. Worth every penny!",
+        "date": "2024-01-03",
+        "verified_purchase": true
+      }
+    ]
+  },
+  {
+    "id": "wireless_headphones",
+    "title": "Wireless Noise-Cancelling Headphones",
+    "description": "Immerse yourself in crystal-clear audio with these premium wireless noise-cancelling headphones. Featuring industry-leading active noise cancellation technology, these headphones block out ambient noise so you can focus on your music, podcasts, or calls. With 30 hours of battery life on a single charge and quick charge capability (10 minutes = 5 hours), you'll never run out of power. The comfortable over-ear design with plush memory foam ear cushions ensures all-day comfort. Includes advanced Bluetooth 5.2 connectivity, touch controls, and a built-in microphone for hands-free calls.",
+    "price": 29900,
+    "currency": "USD",
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=400&fit=crop",
+    "category": "Electronics",
+    "in_stock": true,
+    "technical_info": {
+      "Driver Size": "40mm dynamic drivers",
+      "Frequency Response": "20Hz - 20kHz",
+      "Noise Cancellation": "Active Noise Cancellation (ANC)",
+      "Battery Life": "30 hours (ANC on), 40 hours (ANC off)",
+      "Charging": "USB-C, Quick Charge (10 min = 5 hours)",
+      "Connectivity": "Bluetooth 5.2, 3.5mm wired",
+      "Weight": "310g (0.68 lbs)",
+      "Microphone": "Built-in dual microphones",
+      "Controls": "Touch controls, Voice assistant support",
+      "Compatibility": "iOS, Android, Windows, Mac"
+    },
+    "average_rating": 4.7,
+    "rating_count": 89,
+    "comments": [
+      {
+        "author": "James P.",
+        "rating": 5,
+        "text": "These headphones are incredible! The noise cancellation is amazing - I can't hear anything around me. Sound quality is top-notch and the battery lasts forever.",
+        "date": "2024-01-14",
+        "verified_purchase": true
+      },
+      {
+        "author": "Lisa W.",
+        "rating": 5,
+        "text": "Best headphones I've ever owned. The comfort is outstanding - I can wear them for hours. The sound quality is phenomenal and the ANC works perfectly on flights.",
+        "date": "2024-01-12",
+        "verified_purchase": true
+      },
+      {
+        "author": "Robert H.",
+        "rating": 4,
+        "text": "Great headphones with excellent sound quality. Noise cancellation is very effective. The only downside is they're a bit heavy for extended wear, but still comfortable.",
+        "date": "2024-01-09",
+        "verified_purchase": true
+      },
+      {
+        "author": "Amanda S.",
+        "rating": 5,
+        "text": "Perfect for my daily commute. The battery life is amazing and the sound quality is outstanding. Highly recommend!",
+        "date": "2024-01-07",
+        "verified_purchase": true
+      },
+      {
+        "author": "Chris B.",
+        "rating": 4,
+        "text": "Really good headphones. The ANC is impressive and the build quality feels premium. Worth the investment for anyone who travels frequently.",
+        "date": "2024-01-04",
+        "verified_purchase": true
+      }
+    ]
+  },
+  {
+    "id": "smartwatch_fitness",
+    "title": "Smart Fitness Watch",
+    "description": "Take your fitness journey to the next level with this advanced smart fitness watch. Track your workouts, monitor your health, and stay connected all from your wrist. Features include continuous heart rate monitoring, built-in GPS for accurate distance tracking, sleep analysis, and over 50 workout modes. The always-on display is bright and easy to read even in direct sunlight. With 7 days of battery life, you can track your activities all week without charging. Water-resistant up to 50 meters, so you can wear it while swimming. Includes smartphone notifications, music control, and a comprehensive health dashboard.",
+    "price": 19900,
+    "currency": "USD",
+    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&h=400&fit=crop",
+    "category": "Electronics",
+    "in_stock": true,
+    "technical_info": {
+      "Display": "1.4-inch AMOLED (454 x 454 pixels)",
+      "Battery Life": "Up to 7 days (typical use)",
+      "Sensors": "Heart rate, GPS, Accelerometer, Gyroscope, Compass, Barometer",
+      "Water Resistance": "5 ATM (50 meters)",
+      "Connectivity": "Bluetooth 5.0, Wi-Fi",
+      "Compatibility": "iOS 13+, Android 8+",
+      "Workout Modes": "50+ workout modes",
+      "Storage": "4GB internal storage",
+      "Weight": "45g (1.6 oz)",
+      "Charging": "Magnetic charging cable"
+    },
+    "average_rating": 4.5,
+    "rating_count": 156,
+    "comments": [
+      {
+        "author": "Jessica K.",
+        "rating": 5,
+        "text": "Love this watch! The fitness tracking is incredibly accurate and the battery life is amazing. The GPS works perfectly for my runs and the heart rate monitor is spot-on.",
+        "date": "2024-01-13",
+        "verified_purchase": true
+      },
+      {
+        "author": "Mark D.",
+        "rating": 4,
+        "text": "Great fitness watch with lots of features. The display is clear and the battery lasts a full week. The app is easy to use and syncs well with my phone.",
+        "date": "2024-01-11",
+        "verified_purchase": true
+      },
+      {
+        "author": "Nicole F.",
+        "rating": 5,
+        "text": "Perfect for tracking my workouts and daily activity. The sleep tracking is really insightful and helps me understand my sleep patterns better. Highly recommend!",
+        "date": "2024-01-08",
+        "verified_purchase": true
+      },
+      {
+        "author": "Tom G.",
+        "rating": 4,
+        "text": "Solid smartwatch with good fitness tracking capabilities. The GPS is accurate and the heart rate monitor works well. Battery life is impressive for all the features it has.",
+        "date": "2024-01-06",
+        "verified_purchase": true
+      },
+      {
+        "author": "Rachel M.",
+        "rating": 5,
+        "text": "This watch has transformed my fitness routine. The workout modes are comprehensive and the health insights are really helpful. Great value for money!",
+        "date": "2024-01-02",
+        "verified_purchase": true
+      }
+    ]
+  },
+  {
+    "id": "coffee_maker",
+    "title": "Premium Coffee Maker",
+    "description": "Brew the perfect cup of coffee every morning with this premium programmable coffee maker. Features a large 12-cup capacity thermal carafe that keeps your coffee hot for hours without a warming plate, preserving the fresh-brewed flavor. The programmable timer lets you wake up to freshly brewed coffee, and the auto-shutoff feature provides peace of mind. The brew strength control allows you to customize your coffee from mild to bold. The removable water reservoir makes filling easy, and the reusable filter basket is environmentally friendly. The sleek stainless steel design looks great on any countertop.",
+    "price": 8999,
+    "currency": "USD",
+    "image_url": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=400&h=400&fit=crop&q=80",
+    "category": "Home & Kitchen",
+    "in_stock": true,
+    "technical_info": {
+      "Capacity": "12 cups (60 oz)",
+      "Carafe Type": "Thermal (stainless steel)",
+      "Brew Time": "Approximately 10 minutes",
+      "Programmable": "24-hour programmable timer",
+      "Auto Shutoff": "Automatic shutoff after brewing",
+      "Brew Strength": "Adjustable brew strength control",
+      "Filter": "Reusable mesh filter basket",
+      "Dimensions": "10.5\" W x 8.5\" D x 13\" H",
+      "Weight": "5.2 lbs",
+      "Power": "120V, 900W"
+    },
+    "average_rating": 4.4,
+    "rating_count": 203,
+    "comments": [
+      {
+        "author": "Patricia L.",
+        "rating": 5,
+        "text": "Best coffee maker I've ever owned! The thermal carafe keeps coffee hot for hours without that burnt taste. The programmable feature is perfect for busy mornings.",
+        "date": "2024-01-14",
+        "verified_purchase": true
+      },
+      {
+        "author": "Steven C.",
+        "rating": 4,
+        "text": "Great coffee maker with excellent build quality. The coffee tastes great and the thermal carafe works as advertised. Easy to clean and maintain.",
+        "date": "2024-01-11",
+        "verified_purchase": true
+      },
+      {
+        "author": "Karen T.",
+        "rating": 5,
+        "text": "Love waking up to fresh coffee! The programmable timer is a game-changer. The thermal carafe is perfect - no more burnt coffee taste.",
+        "date": "2024-01-09",
+        "verified_purchase": true
+      },
+      {
+        "author": "Brian M.",
+        "rating": 4,
+        "text": "Solid coffee maker that brews consistently good coffee. The thermal carafe is a nice feature. Only minor complaint is it's a bit tall for some cabinets.",
+        "date": "2024-01-07",
+        "verified_purchase": true
+      },
+      {
+        "author": "Diane R.",
+        "rating": 5,
+        "text": "Perfect coffee maker for our family. Makes great coffee and the thermal carafe keeps it hot all morning. Highly recommend!",
+        "date": "2024-01-05",
+        "verified_purchase": true
+      }
+    ]
+  },
+  {
+    "id": "yoga_mat",
+    "title": "Professional Yoga Mat",
+    "description": "Elevate your yoga practice with this professional-grade yoga mat. Made from high-density TPE (Thermoplastic Elastomer) material, this mat provides excellent cushioning and support for all types of yoga poses. The non-slip surface ensures stability during even the most challenging poses, while the extra-thick 6mm padding protects your joints and provides comfort on hard floors. The mat includes a convenient carrying strap for easy transport to and from classes. The closed-cell construction prevents moisture absorption, making it hygienic and easy to clean. Available in a beautiful, calming color that won't show wear over time.",
+    "price": 3499,
+    "currency": "USD",
+    "image_url": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=400&h=400&fit=crop",
+    "category": "Sports & Fitness",
+    "in_stock": true,
+    "technical_info": {
+      "Material": "TPE (Thermoplastic Elastomer)",
+      "Thickness": "6mm (extra thick)",
+      "Dimensions": "72\" L x 24\" W (183cm x 61cm)",
+      "Weight": "2.2 lbs (1 kg)",
+      "Surface": "Non-slip textured surface",
+      "Construction": "Closed-cell (moisture-resistant)",
+      "Carrying Strap": "Included",
+      "Care": "Wipe clean with damp cloth",
+      "Warranty": "1 year manufacturer warranty",
+      "Certifications": "Eco-friendly, non-toxic materials"
+    },
+    "average_rating": 4.6,
+    "rating_count": 278,
+    "comments": [
+      {
+        "author": "Michelle A.",
+        "rating": 5,
+        "text": "Best yoga mat I've ever used! The thickness is perfect and the non-slip surface is amazing. I feel so much more stable in my poses. The carrying strap is a nice bonus.",
+        "date": "2024-01-15",
+        "verified_purchase": true
+      },
+      {
+        "author": "Kevin J.",
+        "rating": 5,
+        "text": "Excellent mat with great cushioning. My knees and wrists thank me! The grip is fantastic even when I'm sweating. Highly recommend for serious yogis.",
+        "date": "2024-01-12",
+        "verified_purchase": true
+      },
+      {
+        "author": "Laura S.",
+        "rating": 4,
+        "text": "Great yoga mat with good grip and cushioning. The thickness is perfect for my needs. The only minor issue is it's a bit heavy, but that's expected for the thickness.",
+        "date": "2024-01-10",
+        "verified_purchase": true
+      },
+      {
+        "author": "Ryan P.",
+        "rating": 5,
+        "text": "Perfect mat for my daily practice. The non-slip surface is excellent and the extra thickness makes a huge difference for comfort. Great value!",
+        "date": "2024-01-08",
+        "verified_purchase": true
+      },
+      {
+        "author": "Samantha H.",
+        "rating": 4,
+        "text": "Really good yoga mat. The grip is excellent and it's very comfortable. The carrying strap makes it easy to take to classes. Would buy again!",
+        "date": "2024-01-06",
+        "verified_purchase": true
+      }
+    ]
+  },
+  {
+    "id": "book_ai_guide",
+    "title": "AI Development Guide",
+    "description": "Master the art of building AI-powered applications with this comprehensive guide. Written by industry experts, this book covers everything from the fundamentals of machine learning to advanced topics like neural networks, natural language processing, and computer vision. Learn how to integrate AI into web applications, mobile apps, and enterprise systems. Includes practical examples, code samples, and real-world case studies. Whether you're a beginner looking to get started with AI or an experienced developer wanting to expand your skills, this guide provides the knowledge and tools you need to succeed. The book covers popular frameworks and libraries, best practices, and common pitfalls to avoid.",
+    "price": 2499,
+    "currency": "USD",
+    "image_url": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=400&fit=crop",
+    "category": "Books",
+    "in_stock": true,
+    "technical_info": {
+      "Pages": "450 pages",
+      "Format": "Paperback and eBook",
+      "Language": "English",
+      "Publisher": "Tech Publications",
+      "Publication Date": "2024",
+      "ISBN": "978-0-123456-78-9",
+      "Chapters": "15 comprehensive chapters",
+      "Code Examples": "100+ practical examples",
+      "Level": "Beginner to Advanced",
+      "Topics": "ML, NLP, Computer Vision, Integration"
+    },
+    "average_rating": 4.3,
+    "rating_count": 94,
+    "comments": [
+      {
+        "author": "Alex B.",
+        "rating": 5,
+        "text": "Excellent book! Very well written and easy to follow. The examples are practical and the explanations are clear. This has been incredibly helpful for my AI projects.",
+        "date": "2024-01-13",
+        "verified_purchase": true
+      },
+      {
+        "author": "Maria G.",
+        "rating": 4,
+        "text": "Great resource for learning AI development. The book covers a lot of ground and the code examples are really useful. Would recommend to anyone getting started with AI.",
+        "date": "2024-01-11",
+        "verified_purchase": true
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 5,
+        "text": "One of the best AI books I've read. The practical approach and real-world examples make it easy to apply what you learn. Worth every penny!",
+        "date": "2024-01-09",
+        "verified_purchase": true
+      },
+      {
+        "author": "Sophie L.",
+        "rating": 4,
+        "text": "Good comprehensive guide. Covers all the important topics and the writing is clear. Some sections could use more detail, but overall it's a solid resource.",
+        "date": "2024-01-07",
+        "verified_purchase": true
+      },
+      {
+        "author": "Nathan W.",
+        "rating": 4,
+        "text": "Helpful book with practical examples. The code samples are well-explained and the case studies are interesting. Good for developers looking to add AI to their skillset.",
+        "date": "2024-01-05",
+        "verified_purchase": true
+      }
+    ]
+  },
+  {
+    "id": "tablet_pro_12",
+    "title": "Tablet Pro 12",
+    "description": "Powerful 12-inch tablet with stunning display, perfect for work and entertainment. Features a high-resolution screen, powerful processor, and all-day battery life. Ideal for artists, students, and professionals who need a portable computing solution.",
+    "price": 79900,
+    "currency": "USD",
+    "image_url": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=400&h=400&fit=crop",
+    "category": "Electronics",
+    "in_stock": true,
+    "technical_info": {
+      "Display": "12.9-inch Liquid Retina (2732 x 2048)",
+      "Processor": "Apple M2 chip",
+      "Storage": "128GB, 256GB, 512GB, 1TB options",
+      "RAM": "8GB",
+      "Battery": "Up to 10 hours",
+      "Camera": "12MP Wide, 10MP Ultra Wide",
+      "Connectivity": "Wi-Fi 6E, 5G (optional)",
+      "Weight": "1.5 lbs (682g)",
+      "Operating System": "iPadOS 17",
+      "Stylus Support": "Apple Pencil (2nd generation)"
+    },
+    "average_rating": 4.7,
+    "rating_count": 203,
+    "comments": [
+      {
+        "author": "Kevin M.",
+        "rating": 5,
+        "text": "Amazing tablet! The display is gorgeous and the performance is incredible. Perfect for digital art and note-taking.",
+        "date": "2024-01-14",
+        "verified_purchase": true
+      },
+      {
+        "author": "Rachel T.",
+        "rating": 5,
+        "text": "Best tablet I've ever used. The screen quality is outstanding and the battery lasts all day. Highly recommend!",
+        "date": "2024-01-12",
+        "verified_purchase": true
+      },
+      {
+        "author": "Mark D.",
+        "rating": 4,
+        "text": "Great tablet with excellent performance. The only downside is the price, but you get what you pay for.",
+        "date": "2024-01-10",
+        "verified_purchase": true
+      },
+      {
+        "author": "Lisa K.",
+        "rating": 5,
+        "text": "Perfect for my design work. The Apple Pencil integration is seamless and the display is perfect for color accuracy.",
+        "date": "2024-01-08",
+        "verified_purchase": true
+      },
+      {
+        "author": "Tom R.",
+        "rating": 4,
+        "text": "Excellent tablet, very fast and responsive. The screen is beautiful. Only wish it had more storage options.",
+        "date": "2024-01-06",
+        "verified_purchase": true
+      }
+    ]
+  },
+  {
+    "id": "gaming_keyboard",
+    "title": "Mechanical Gaming Keyboard",
+    "description": "Professional mechanical gaming keyboard with RGB backlighting, customizable keys, and premium switches. Features anti-ghosting technology, programmable macro keys, and a durable aluminum frame. Perfect for gamers and professionals who demand precision and style.",
+    "price": 12900,
+    "currency": "USD",
+    "image_url": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=400&h=400&fit=crop",
+    "category": "Electronics",
+    "in_stock": true,
+    "technical_info": {
+      "Switch Type": "Cherry MX Red (Linear)",
+      "Layout": "Full-size (104 keys)",
+      "Backlighting": "RGB per-key customizable",
+      "Keycaps": "Double-shot PBT",
+      "Connectivity": "USB-C wired",
+      "Polling Rate": "1000Hz (1ms)",
+      "Anti-Ghosting": "N-key rollover",
+      "Dimensions": "17.3\" x 5.1\" x 1.6\"",
+      "Weight": "2.2 lbs (1 kg)",
+      "Warranty": "2 years"
+    },
+    "average_rating": 4.5,
+    "rating_count": 312,
+    "comments": [
+      {
+        "author": "Jake S.",
+        "rating": 5,
+        "text": "Best gaming keyboard I've owned! The switches feel amazing and the RGB lighting is beautiful. Highly recommend!",
+        "date": "2024-01-15",
+        "verified_purchase": true
+      },
+      {
+        "author": "Emma L.",
+        "rating": 4,
+        "text": "Great keyboard with excellent build quality. The mechanical switches are satisfying to type on. RGB software is easy to use.",
+        "date": "2024-01-13",
+        "verified_purchase": true
+      },
+      {
+        "author": "Ryan P.",
+        "rating": 5,
+        "text": "Perfect for both gaming and work. The keys are responsive and the build quality is top-notch. Worth every penny!",
+        "date": "2024-01-11",
+        "verified_purchase": true
+      },
+      {
+        "author": "Olivia M.",
+        "rating": 4,
+        "text": "Solid keyboard with good features. The RGB lighting is nice and the switches feel great. Only minor issue is the software can be a bit complex.",
+        "date": "2024-01-09",
+        "verified_purchase": true
+      },
+      {
+        "author": "Daniel H.",
+        "rating": 5,
+        "text": "Excellent keyboard! The build quality is impressive and the typing experience is fantastic. Highly satisfied!",
+        "date": "2024-01-07",
+        "verified_purchase": true
+      }
+    ]
+  },
+  {
+    "id": "wireless_mouse",
+    "title": "Ergonomic Wireless Mouse",
+    "description": "Comfortable ergonomic wireless mouse designed for all-day use. Features precision tracking, long battery life, and customizable buttons. The contoured design reduces wrist strain and the smooth scrolling makes navigation effortless.",
+    "price": 4999,
+    "currency": "USD",
+    "image_url": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=400&h=400&fit=crop",
+    "category": "Electronics",
+    "in_stock": true,
+    "technical_info": {
+      "Sensor": "Optical sensor (16000 DPI)",
+      "Connectivity": "Wireless 2.4GHz, Bluetooth 5.0",
+      "Battery": "AA battery (up to 12 months)",
+      "Buttons": "6 programmable buttons",
+      "Scroll Wheel": "Precision scrolling with tilt",
+      "Tracking": "Works on any surface",
+      "Dimensions": "4.3\" x 2.6\" x 1.7\"",
+      "Weight": "3.5 oz (99g)",
+      "Compatibility": "Windows, Mac, Linux",
+      "Warranty": "1 year"
+    },
+    "average_rating": 4.4,
+    "rating_count": 187,
+    "comments": [
+      {
+        "author": "Sarah K.",
+        "rating": 5,
+        "text": "Very comfortable mouse! The ergonomic design really helps with wrist pain. Battery life is excellent.",
+        "date": "2024-01-14",
+        "verified_purchase": true
+      },
+      {
+        "author": "Mike T.",
+        "rating": 4,
+        "text": "Good wireless mouse with solid build quality. Tracking is accurate and the battery lasts a long time.",
+        "date": "2024-01-12",
+        "verified_purchase": true
+      },
+      {
+        "author": "Anna B.",
+        "rating": 5,
+        "text": "Perfect mouse for office work. Very comfortable to use all day and the wireless connection is reliable.",
+        "date": "2024-01-10",
+        "verified_purchase": true
+      },
+      {
+        "author": "Chris W.",
+        "rating": 4,
+        "text": "Nice mouse with good features. The programmable buttons are useful. Only wish it was rechargeable instead of using batteries.",
+        "date": "2024-01-08",
+        "verified_purchase": true
+      },
+      {
+        "author": "Laura F.",
+        "rating": 5,
+        "text": "Excellent mouse! The ergonomic design is perfect and it's very comfortable for long work sessions.",
+        "date": "2024-01-06",
+        "verified_purchase": true
+      }
+    ]
+  },
+  {
+    "id": "bluetooth_speaker",
+    "title": "Portable Bluetooth Speaker",
+    "description": "Powerful portable Bluetooth speaker with 360-degree sound, waterproof design, and 20-hour battery life. Perfect for outdoor adventures, parties, or home use. Features deep bass, clear highs, and impressive volume for its size.",
+    "price": 7999,
+    "currency": "USD",
+    "image_url": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=400&h=400&fit=crop",
+    "category": "Electronics",
+    "in_stock": true,
+    "technical_info": {
+      "Power": "20W total output",
+      "Drivers": "Dual 2.5\" full-range drivers",
+      "Battery": "Rechargeable lithium (20 hours)",
+      "Connectivity": "Bluetooth 5.0, 3.5mm aux",
+      "Waterproof": "IPX7 (submersible up to 1m)",
+      "Range": "Bluetooth range up to 33ft",
+      "Dimensions": "7.1\" x 2.8\" x 2.8\"",
+      "Weight": "1.3 lbs (590g)",
+      "Charging": "USB-C",
+      "Colors": "Black, Blue, Red"
+    },
+    "average_rating": 4.6,
+    "rating_count": 445,
+    "comments": [
+      {
+        "author": "David L.",
+        "rating": 5,
+        "text": "Amazing speaker! The sound quality is incredible for its size. Perfect for beach trips and outdoor activities.",
+        "date": "2024-01-15",
+        "verified_purchase": true
+      },
+      {
+        "author": "Jennifer R.",
+        "rating": 5,
+        "text": "Love this speaker! The battery lasts forever and the waterproof feature gives me peace of mind. Sound is great!",
+        "date": "2024-01-13",
+        "verified_purchase": true
+      },
+      {
+        "author": "Robert M.",
+        "rating": 4,
+        "text": "Good portable speaker with solid sound quality. The battery life is impressive and it's very durable.",
+        "date": "2024-01-11",
+        "verified_purchase": true
+      },
+      {
+        "author": "Michelle S.",
+        "rating": 5,
+        "text": "Perfect speaker for parties! The 360-degree sound fills the room and the bass is surprisingly good.",
+        "date": "2024-01-09",
+        "verified_purchase": true
+      },
+      {
+        "author": "James K.",
+        "rating": 4,
+        "text": "Great speaker with good features. The waterproof design is a big plus. Sound quality is excellent for the price.",
+        "date": "2024-01-07",
+        "verified_purchase": true
+      }
+    ]
+  },
+  {
+    "id": "standing_desk",
+    "title": "Electric Standing Desk",
+    "description": "Adjustable height electric standing desk with memory presets and smooth motor operation. Features a spacious 60-inch desktop, dual motor system for stability, and programmable height settings. Transform your workspace and improve your health with the ability to sit or stand throughout the day.",
+    "price": 44900,
+    "currency": "USD",
+    "image_url": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=400&h=400&fit=crop",
+    "category": "Furniture",
+    "in_stock": true,
+    "technical_info": {
+      "Desktop Size": "60\" x 30\"",
+      "Height Range": "29.5\" - 48\"",
+      "Weight Capacity": "220 lbs",
+      "Motor": "Dual motor system",
+      "Memory Presets": "4 programmable heights",
+      "Noise Level": "< 50dB",
+      "Lift Speed": "1.2\" per second",
+      "Material": "Bamboo desktop, steel frame",
+      "Assembly": "Required (tools included)",
+      "Warranty": "5 years"
+    },
+    "average_rating": 4.5,
+    "rating_count": 156,
+    "comments": [
+      {
+        "author": "Patricia W.",
+        "rating": 5,
+        "text": "Best purchase I've made for my home office! The standing desk has eliminated my back pain. The motor is quiet and smooth.",
+        "date": "2024-01-14",
+        "verified_purchase": true
+      },
+      {
+        "author": "Steven H.",
+        "rating": 4,
+        "text": "Great standing desk with solid build quality. The memory presets are convenient and the desktop is spacious.",
+        "date": "2024-01-12",
+        "verified_purchase": true
+      },
+      {
+        "author": "Karen D.",
+        "rating": 5,
+        "text": "Love this desk! It's completely changed my work routine. The bamboo top is beautiful and the motor works perfectly.",
+        "date": "2024-01-10",
+        "verified_purchase": true
+      },
+      {
+        "author": "Brian T.",
+        "rating": 4,
+        "text": "Good standing desk with nice features. Assembly took a bit of time but the instructions were clear. Very stable at all heights.",
+        "date": "2024-01-08",
+        "verified_purchase": true
+      },
+      {
+        "author": "Diane M.",
+        "rating": 5,
+        "text": "Excellent desk! The quality is outstanding and it's made a huge difference in my productivity and comfort.",
+        "date": "2024-01-06",
+        "verified_purchase": true
+      }
+    ]
+  },
+  {
+    "id": "office_chair",
+    "title": "Ergonomic Office Chair",
+    "description": "Premium ergonomic office chair with lumbar support, adjustable armrests, and breathable mesh back. Features 360-degree swivel, smooth-rolling casters, and multiple adjustment options for personalized comfort. Perfect for long work sessions.",
+    "price": 29900,
+    "currency": "USD",
+    "image_url": "https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237?w=400&h=400&fit=crop",
+    "category": "Furniture",
+    "in_stock": true,
+    "technical_info": {
+      "Seat Height": "17\" - 21\" adjustable",
+      "Backrest": "Adjustable height and angle",
+      "Lumbar Support": "Adjustable",
+      "Armrests": "4D adjustable",
+      "Weight Capacity": "275 lbs",
+      "Material": "Mesh back, memory foam seat",
+      "Base": "5-star base with casters",
+      "Warranty": "10 years",
+      "Assembly": "Required (15 minutes)",
+      "Colors": "Black, Gray, Blue"
+    },
+    "average_rating": 4.6,
+    "rating_count": 289,
+    "comments": [
+      {
+        "author": "Michael P.",
+        "rating": 5,
+        "text": "Best office chair I've ever owned! The lumbar support is perfect and it's incredibly comfortable for 8+ hour work days.",
+        "date": "2024-01-15",
+        "verified_purchase": true
+      },
+      {
+        "author": "Jessica L.",
+        "rating": 5,
+        "text": "Amazing chair! The mesh back keeps me cool and the adjustments are easy to use. My back pain is gone!",
+        "date": "2024-01-13",
+        "verified_purchase": true
+      },
+      {
+        "author": "Mark S.",
+        "rating": 4,
+        "text": "Great ergonomic chair with good build quality. The adjustments are comprehensive and it's very comfortable.",
+        "date": "2024-01-11",
+        "verified_purchase": true
+      },
+      {
+        "author": "Nicole T.",
+        "rating": 5,
+        "text": "Perfect chair for my home office! The quality is excellent and it's made a huge difference in my comfort.",
+        "date": "2024-01-09",
+        "verified_purchase": true
+      },
+      {
+        "author": "Tom G.",
+        "rating": 4,
+        "text": "Solid chair with good features. The mesh material is breathable and the adjustments work well. Good value for money.",
+        "date": "2024-01-07",
+        "verified_purchase": true
+      }
+    ]
+  },
+  {
+    "id": "air_fryer",
+    "title": "Digital Air Fryer",
+    "description": "Large capacity digital air fryer with 6-quart basket, perfect for families. Features one-touch presets, rapid air technology for crispy results, and easy-to-clean non-stick basket. Cook healthier meals with up to 85% less oil than traditional frying.",
+    "price": 8999,
+    "currency": "USD",
+    "image_url": "https://images.unsplash.com/photo-1556910096-6f5e72db6803?w=400&h=400&fit=crop",
+    "category": "Home & Kitchen",
+    "in_stock": true,
+    "technical_info": {
+      "Capacity": "6-quart basket",
+      "Power": "1700W",
+      "Temperature Range": "180°F - 400°F",
+      "Timer": "Up to 60 minutes",
+      "Presets": "8 one-touch presets",
+      "Basket": "Non-stick, dishwasher safe",
+      "Dimensions": "13\" x 12\" x 14\"",
+      "Weight": "12.5 lbs",
+      "Display": "Digital LED",
+      "Warranty": "1 year"
+    },
+    "average_rating": 4.4,
+    "rating_count": 523,
+    "comments": [
+      {
+        "author": "Amanda R.",
+        "rating": 5,
+        "text": "Love this air fryer! It makes the crispiest fries and chicken. The presets are convenient and cleanup is easy.",
+        "date": "2024-01-15",
+        "verified_purchase": true
+      },
+      {
+        "author": "Chris B.",
+        "rating": 4,
+        "text": "Great air fryer with good capacity. The food comes out crispy and it's much healthier than deep frying.",
+        "date": "2024-01-13",
+        "verified_purchase": true
+      },
+      {
+        "author": "Sarah M.",
+        "rating": 5,
+        "text": "Best kitchen appliance I've bought! The air fryer cooks everything perfectly and the large basket is perfect for my family.",
+        "date": "2024-01-11",
+        "verified_purchase": true
+      },
+      {
+        "author": "John D.",
+        "rating": 4,
+        "text": "Good air fryer with nice features. The digital display is easy to use and the presets are helpful.",
+        "date": "2024-01-09",
+        "verified_purchase": true
+      },
+      {
+        "author": "Lisa K.",
+        "rating": 5,
+        "text": "Excellent air fryer! It's become a staple in our kitchen. The food is always crispy and delicious!",
+        "date": "2024-01-07",
+        "verified_purchase": true
+      }
+    ]
+  },
+  {
+    "id": "instant_pot",
+    "title": "7-in-1 Instant Pot",
+    "description": "Versatile 7-in-1 electric pressure cooker that replaces multiple kitchen appliances. Functions include pressure cooker, slow cooker, rice cooker, steamer, sauté pan, yogurt maker, and warmer. Cook meals up to 70% faster while preserving nutrients and flavor.",
+    "price": 9999,
+    "currency": "USD",
+    "image_url": "https://images.unsplash.com/photo-1556911220-bff31c812dba?w=400&h=400&fit=crop",
+    "category": "Home & Kitchen",
+    "in_stock": true,
+    "technical_info": {
+      "Capacity": "6-quart",
+      "Functions": "7-in-1 (Pressure, Slow Cook, Rice, Steam, Sauté, Yogurt, Warm)",
+      "Pressure Levels": "High and Low",
+      "Power": "1000W",
+      "Safety Features": "10+ safety mechanisms",
+      "Inner Pot": "Stainless steel, dishwasher safe",
+      "Dimensions": "13\" x 12.4\" x 11.2\"",
+      "Weight": "11.5 lbs",
+      "Programs": "14 built-in programs",
+      "Warranty": "1 year"
+    },
+    "average_rating": 4.7,
+    "rating_count": 678,
+    "comments": [
+      {
+        "author": "Maria G.",
+        "rating": 5,
+        "text": "Amazing kitchen appliance! I use it almost daily. The pressure cooking feature is a game-changer for quick meals.",
+        "date": "2024-01-14",
+        "verified_purchase": true
+      },
+      {
+        "author": "David K.",
+        "rating": 5,
+        "text": "Best purchase for my kitchen! The Instant Pot makes cooking so much easier and faster. Highly recommend!",
+        "date": "2024-01-12",
+        "verified_purchase": true
+      },
+      {
+        "author": "Emily R.",
+        "rating": 4,
+        "text": "Great multi-cooker with lots of functions. The pressure cooking is fast and the slow cook feature works well too.",
+        "date": "2024-01-10",
+        "verified_purchase": true
+      },
+      {
+        "author": "Alex B.",
+        "rating": 5,
+        "text": "Love this Instant Pot! It's replaced several appliances in my kitchen. The yogurt function is a bonus!",
+        "date": "2024-01-08",
+        "verified_purchase": true
+      },
+      {
+        "author": "Sophie L.",
+        "rating": 4,
+        "text": "Good pressure cooker with many features. Takes some getting used to but once you learn it, it's very convenient.",
+        "date": "2024-01-06",
+        "verified_purchase": true
+      }
+    ]
+  },
+  {
+    "id": "running_shoes",
+    "title": "Professional Running Shoes",
+    "description": "Lightweight performance running shoes with advanced cushioning technology and breathable mesh upper. Features responsive midsole, durable outsole with excellent traction, and comfortable fit. Perfect for daily runs, marathons, and training sessions.",
+    "price": 12999,
+    "currency": "USD",
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&h=400&fit=crop",
+    "category": "Sports & Fitness",
+    "in_stock": true,
+    "technical_info": {
+      "Cushioning": "Advanced foam midsole",
+      "Upper": "Breathable mesh with synthetic overlays",
+      "Outsole": "Durable rubber with traction pattern",
+      "Drop": "8mm heel-to-toe",
+      "Weight": "9.2 oz (men's size 9)",
+      "Fit": "Regular width",
+      "Sizes": "7-13 (men), 5-11 (women)",
+      "Colors": "Black, White, Blue, Red",
+      "Use": "Road running, training",
+      "Warranty": "30-day comfort guarantee"
+    },
+    "average_rating": 4.5,
+    "rating_count": 412,
+    "comments": [
+      {
+        "author": "Ryan M.",
+        "rating": 5,
+        "text": "Best running shoes I've ever owned! The cushioning is perfect and they're incredibly comfortable for long runs.",
+        "date": "2024-01-15",
+        "verified_purchase": true
+      },
+      {
+        "author": "Jessica T.",
+        "rating": 4,
+        "text": "Great running shoes with good support. The fit is true to size and they're very lightweight.",
+        "date": "2024-01-13",
+        "verified_purchase": true
+      },
+      {
+        "author": "Mark L.",
+        "rating": 5,
+        "text": "Excellent shoes for marathon training! The cushioning is amazing and my feet feel great even after 20+ mile runs.",
+        "date": "2024-01-11",
+        "verified_purchase": true
+      },
+      {
+        "author": "Nicole S.",
+        "rating": 4,
+        "text": "Good running shoes with solid build quality. The breathable upper keeps my feet cool during runs.",
+        "date": "2024-01-09",
+        "verified_purchase": true
+      },
+      {
+        "author": "Tom H.",
+        "rating": 5,
+        "text": "Perfect shoes for daily runs! The comfort and support are outstanding. Highly recommend!",
+        "date": "2024-01-07",
+        "verified_purchase": true
+      }
+    ]
+  },
+  {
+    "id": "dumbbells_set",
+    "title": "Adjustable Dumbbell Set",
+    "description": "Space-saving adjustable dumbbell set with quick-change weight selection. Each dumbbell adjusts from 5 to 50 pounds in 5-pound increments. Perfect for home gyms, saving space while providing a full range of weights for various exercises.",
+    "price": 24900,
+    "currency": "USD",
+    "image_url": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop",
+    "category": "Sports & Fitness",
+    "in_stock": true,
+    "technical_info": {
+      "Weight Range": "5-50 lbs per dumbbell (10-100 lbs total)",
+      "Increments": "5 lbs per adjustment",
+      "Material": "Steel plates, chrome handles",
+      "Locking System": "Quick-change dial system",
+      "Dimensions": "15\" x 6\" x 6\" (at 50 lbs)",
+      "Weight": "Varies by setting",
+      "Storage": "Includes storage tray",
+      "Warranty": "1 year",
+      "Max Weight": "50 lbs per dumbbell",
+      "Use": "Home gym, strength training"
+    },
+    "average_rating": 4.6,
+    "rating_count": 234,
+    "comments": [
+      {
+        "author": "James P.",
+        "rating": 5,
+        "text": "Perfect for my home gym! Saves so much space compared to traditional dumbbells. The quick-change system works great.",
+        "date": "2024-01-14",
+        "verified_purchase": true
+      },
+      {
+        "author": "Lisa W.",
+        "rating": 4,
+        "text": "Great adjustable dumbbells with solid build quality. The weight selection is easy and they feel secure.",
+        "date": "2024-01-12",
+        "verified_purchase": true
+      },
+      {
+        "author": "Robert H.",
+        "rating": 5,
+        "text": "Excellent investment for home workouts! The space-saving design is perfect and the quality is top-notch.",
+        "date": "2024-01-10",
+        "verified_purchase": true
+      },
+      {
+        "author": "Amanda S.",
+        "rating": 4,
+        "text": "Good adjustable dumbbells. The quick-change feature is convenient and they're well-built.",
+        "date": "2024-01-08",
+        "verified_purchase": true
+      },
+      {
+        "author": "Chris B.",
+        "rating": 5,
+        "text": "Best home gym equipment I've bought! These dumbbells replace an entire rack and work perfectly.",
+        "date": "2024-01-06",
+        "verified_purchase": true
+      }
+    ]
+  },
+  {
+    "id": "cookbook_healthy",
+    "title": "Healthy Cooking Cookbook",
+    "description": "Comprehensive cookbook featuring 200+ healthy recipes for everyday meals. Includes nutritional information, meal prep tips, and beautiful photography. Perfect for anyone looking to eat healthier without sacrificing flavor.",
+    "price": 1999,
+    "currency": "USD",
+    "image_url": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=400&fit=crop",
+    "category": "Books",
+    "in_stock": true,
+    "technical_info": {
+      "Pages": "320 pages",
+      "Format": "Hardcover and eBook",
+      "Language": "English",
+      "Publisher": "Culinary Press",
+      "Publication Date": "2024",
+      "ISBN": "978-0-987654-32-1",
+      "Recipes": "200+ healthy recipes",
+      "Photos": "Full-color photography",
+      "Level": "Beginner to Intermediate",
+      "Topics": "Healthy meals, meal prep, nutrition"
+    },
+    "average_rating": 4.4,
+    "rating_count": 156,
+    "comments": [
+      {
+        "author": "Patricia L.",
+        "rating": 5,
+        "text": "Amazing cookbook! The recipes are delicious and easy to follow. The nutritional info is really helpful.",
+        "date": "2024-01-13",
+        "verified_purchase": true
+      },
+      {
+        "author": "Steven C.",
+        "rating": 4,
+        "text": "Great cookbook with lots of healthy recipes. The photos are beautiful and the instructions are clear.",
+        "date": "2024-01-11",
+        "verified_purchase": true
+      },
+      {
+        "author": "Karen T.",
+        "rating": 5,
+        "text": "Perfect for my healthy eating journey! The recipes are tasty and the meal prep tips are invaluable.",
+        "date": "2024-01-09",
+        "verified_purchase": true
+      },
+      {
+        "author": "Brian M.",
+        "rating": 4,
+        "text": "Good cookbook with solid recipes. The nutritional information is helpful for tracking my diet.",
+        "date": "2024-01-07",
+        "verified_purchase": true
+      },
+      {
+        "author": "Diane R.",
+        "rating": 5,
+        "text": "Excellent cookbook! Every recipe I've tried has been delicious. Highly recommend for healthy eating!",
+        "date": "2024-01-05",
+        "verified_purchase": true
+      }
+    ]
+  },
+  {
+    "id": "desk_lamp",
+    "title": "LED Desk Lamp",
+    "description": "Modern LED desk lamp with adjustable brightness and color temperature. Features touch controls, USB charging port, and flexible gooseneck design. Perfect for reading, working, or studying with eye-friendly lighting.",
+    "price": 3999,
+    "currency": "USD",
+    "image_url": "https://unsplash.com/photos/pdIwPL3HU2s/download?w=400&h=400&fit=crop",
+    "category": "Home & Kitchen",
+    "in_stock": true,
+    "technical_info": {
+      "Light Source": "LED (non-flickering)",
+      "Brightness": "5 levels (10%-100%)",
+      "Color Temperature": "3000K-6000K (warm to cool)",
+      "Power": "5W LED",
+      "USB Port": "1x USB-A charging port",
+      "Controls": "Touch-sensitive",
+      "Adjustability": "360° swivel, flexible gooseneck",
+      "Base": "Weighted, non-slip",
+      "Dimensions": "20\" height, 8\" base",
+      "Warranty": "2 years"
+    },
+    "average_rating": 4.5,
+    "rating_count": 278,
+    "comments": [
+      {
+        "author": "Michelle A.",
+        "rating": 5,
+        "text": "Perfect desk lamp! The adjustable brightness and color temperature are great for different tasks.",
+        "date": "2024-01-14",
+        "verified_purchase": true
+      },
+      {
+        "author": "Kevin J.",
+        "rating": 4,
+        "text": "Good LED lamp with nice features. The USB port is convenient and the touch controls work well.",
+        "date": "2024-01-12",
+        "verified_purchase": true
+      },
+      {
+        "author": "Laura S.",
+        "rating": 5,
+        "text": "Excellent lamp for my home office! The flexible design is perfect and the lighting is easy on the eyes.",
+        "date": "2024-01-10",
+        "verified_purchase": true
+      },
+      {
+        "author": "Ryan P.",
+        "rating": 4,
+        "text": "Nice desk lamp with good build quality. The adjustable color temperature is a useful feature.",
+        "date": "2024-01-08",
+        "verified_purchase": true
+      },
+      {
+        "author": "Samantha H.",
+        "rating": 5,
+        "text": "Love this lamp! The USB charging port is handy and the lighting is perfect for late-night work.",
+        "date": "2024-01-06",
+        "verified_purchase": true
+      }
+    ]
+  },
+  {
+    "id": "webcam_4k",
+    "title": "4K Webcam",
+    "description": "Professional 4K webcam with auto-focus, HDR, and dual microphones. Features low-light correction, privacy shutter, and wide field of view. Perfect for video calls, streaming, and content creation.",
+    "price": 14900,
+    "currency": "USD",
+    "image_url": "https://images.unsplash.com/photo-1587825147138-3462375467d2?w=400&h=400&fit=crop",
+    "category": "Electronics",
+    "in_stock": true,
+    "technical_info": {
+      "Resolution": "4K UHD (3840 x 2160) @ 30fps",
+      "1080p": "Full HD @ 60fps",
+      "Lens": "Glass lens with auto-focus",
+      "Field of View": "90° wide angle",
+      "Microphones": "Dual stereo microphones with noise reduction",
+      "HDR": "Yes",
+      "Low Light": "Automatic correction",
+      "Privacy": "Physical shutter",
+      "Mount": "Universal clip mount",
+      "Compatibility": "Windows, Mac, USB-C"
+    },
+    "average_rating": 4.6,
+    "rating_count": 189,
+    "comments": [
+      {
+        "author": "Sarah M.",
+        "rating": 5,
+        "text": "Amazing webcam! The 4K quality is incredible and the auto-focus works perfectly. Great for video calls!",
+        "date": "2024-01-15",
+        "verified_purchase": true
+      },
+      {
+        "author": "Michael T.",
+        "rating": 4,
+        "text": "Great webcam with excellent video quality. The dual microphones provide clear audio. Privacy shutter is a nice touch.",
+        "date": "2024-01-13",
+        "verified_purchase": true
+      },
+      {
+        "author": "Jennifer L.",
+        "rating": 5,
+        "text": "Perfect for remote work! The video quality is professional and the low-light performance is impressive.",
+        "date": "2024-01-11",
+        "verified_purchase": true
+      },
+      {
+        "author": "David K.",
+        "rating": 4,
+        "text": "Good webcam with solid features. The 4K resolution is great and the build quality feels premium.",
+        "date": "2024-01-09",
+        "verified_purchase": true
+      },
+      {
+        "author": "Emily R.",
+        "rating": 5,
+        "text": "Excellent webcam! The image quality is outstanding and it's perfect for streaming and video calls.",
+        "date": "2024-01-07",
+        "verified_purchase": true
+      }
+    ]
+  },
+  {
+    "id": "external_monitor",
+    "title": "27-inch 4K Monitor",
+    "description": "Ultra-sharp 27-inch 4K monitor with IPS panel, perfect for work and entertainment. Features HDR support, wide color gamut, and multiple connectivity options. Ideal for designers, developers, and content creators.",
+    "price": 34900,
+    "currency": "USD",
+    "image_url": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=400&h=400&fit=crop",
+    "category": "Electronics",
+    "in_stock": true,
+    "technical_info": {
+      "Screen Size": "27 inches",
+      "Resolution": "4K UHD (3840 x 2160)",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60Hz",
+      "Response Time": "5ms",
+      "Color Gamut": "99% sRGB",
+      "HDR": "HDR10 support",
+      "Connectivity": "HDMI 2.0, DisplayPort, USB-C",
+      "Adjustability": "Height, tilt, swivel, pivot",
+      "Warranty": "3 years"
+    },
+    "average_rating": 4.5,
+    "rating_count": 267,
+    "comments": [
+      {
+        "author": "James P.",
+        "rating": 5,
+        "text": "Stunning monitor! The 4K resolution is incredible and the colors are vibrant. Perfect for my design work.",
+        "date": "2024-01-14",
+        "verified_purchase": true
+      },
+      {
+        "author": "Lisa W.",
+        "rating": 4,
+        "text": "Great monitor with excellent image quality. The IPS panel provides great viewing angles and color accuracy.",
+        "date": "2024-01-12",
+        "verified_purchase": true
+      },
+      {
+        "author": "Robert H.",
+        "rating": 5,
+        "text": "Perfect for my home office! The 4K resolution makes everything look sharp and the adjustability is great.",
+        "date": "2024-01-10",
+        "verified_purchase": true
+      },
+      {
+        "author": "Amanda S.",
+        "rating": 4,
+        "text": "Good monitor with solid features. The USB-C connectivity is convenient and the build quality is nice.",
+        "date": "2024-01-08",
+        "verified_purchase": true
+      },
+      {
+        "author": "Chris B.",
+        "rating": 5,
+        "text": "Excellent monitor! The picture quality is outstanding and it's perfect for both work and entertainment.",
+        "date": "2024-01-06",
+        "verified_purchase": true
+      }
+    ]
+  },
+  {
+    "id": "backpack_laptop",
+    "title": "Professional Laptop Backpack",
+    "description": "Durable laptop backpack with padded compartment for up to 17-inch laptops, multiple organization pockets, and comfortable padded straps. Features water-resistant material, USB charging port, and sleek design perfect for professionals and students.",
+    "price": 6999,
+    "currency": "USD",
+    "image_url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=400&fit=crop",
+    "category": "Accessories",
+    "in_stock": true,
+    "technical_info": {
+      "Laptop Compartment": "Fits up to 17-inch laptops",
+      "Capacity": "30L",
+      "Material": "Water-resistant polyester",
+      "Pockets": "Multiple organization pockets",
+      "USB Port": "External USB charging port",
+      "Straps": "Padded shoulder straps and back panel",
+      "Dimensions": "18\" x 13\" x 7.5\"",
+      "Weight": "2.2 lbs",
+      "Colors": "Black, Gray, Navy",
+      "Warranty": "1 year"
+    },
+    "average_rating": 4.4,
+    "rating_count": 312,
+    "comments": [
+      {
+        "author": "Jessica K.",
+        "rating": 5,
+        "text": "Perfect backpack for work! The laptop compartment is well-padded and there's plenty of space for everything.",
+        "date": "2024-01-15",
+        "verified_purchase": true
+      },
+      {
+        "author": "Mark D.",
+        "rating": 4,
+        "text": "Great backpack with good organization. The USB port is convenient and the build quality is solid.",
+        "date": "2024-01-13",
+        "verified_purchase": true
+      },
+      {
+        "author": "Nicole F.",
+        "rating": 5,
+        "text": "Excellent backpack! Very comfortable to carry and the water-resistant material gives me peace of mind.",
+        "date": "2024-01-11",
+        "verified_purchase": true
+      },
+      {
+        "author": "Tom G.",
+        "rating": 4,
+        "text": "Good backpack with nice features. The padding is adequate and there are plenty of pockets for organization.",
+        "date": "2024-01-09",
+        "verified_purchase": true
+      },
+      {
+        "author": "Rachel M.",
+        "rating": 5,
+        "text": "Love this backpack! It's perfect for commuting and the USB charging port is a game-changer.",
+        "date": "2024-01-07",
+        "verified_purchase": true
+      }
+    ]
+  },
+  {
+    "id": "wireless_charger",
+    "title": "Fast Wireless Charger",
+    "description": "15W fast wireless charging pad compatible with Qi-enabled devices. Features LED indicator, non-slip surface, and compact design. Charge your phone, earbuds, or smartwatch wirelessly with ease.",
+    "price": 2999,
+    "currency": "USD",
+    "image_url": "https://images.unsplash.com/photo-1580910051074-3eb694886505?w=400&h=400&fit=crop",
+    "category": "Electronics",
+    "in_stock": true,
+    "technical_info": {
+      "Power Output": "15W (fast charging)",
+      "Standard": "Qi-compatible",
+      "Input": "USB-C (adapter included)",
+      "LED Indicator": "Charging status light",
+      "Surface": "Non-slip rubber",
+      "Dimensions": "4\" x 4\" x 0.5\"",
+      "Weight": "4.2 oz",
+      "Compatibility": "iPhone, Samsung, Google Pixel, and other Qi devices",
+      "Safety": "Overcharge protection",
+      "Warranty": "1 year"
+    },
+    "average_rating": 4.3,
+    "rating_count": 445,
+    "comments": [
+      {
+        "author": "David L.",
+        "rating": 5,
+        "text": "Great wireless charger! Fast charging works perfectly with my phone. The LED indicator is helpful.",
+        "date": "2024-01-14",
+        "verified_purchase": true
+      },
+      {
+        "author": "Jennifer R.",
+        "rating": 4,
+        "text": "Good wireless charger with solid build quality. The fast charging works well and it's compact.",
+        "date": "2024-01-12",
+        "verified_purchase": true
+      },
+      {
+        "author": "Robert M.",
+        "rating": 5,
+        "text": "Perfect charger for my desk! The non-slip surface keeps my phone in place and charging is fast.",
+        "date": "2024-01-10",
+        "verified_purchase": true
+      },
+      {
+        "author": "Michelle S.",
+        "rating": 4,
+        "text": "Good wireless charger. The fast charging feature works as advertised and the design is sleek.",
+        "date": "2024-01-08",
+        "verified_purchase": true
+      },
+      {
+        "author": "James K.",
+        "rating": 5,
+        "text": "Excellent charger! Very convenient and the fast charging is a huge time-saver. Highly recommend!",
+        "date": "2024-01-06",
+        "verified_purchase": true
+      }
+    ]
+  },
+  {
+    "id": "noise_cancelling_earbuds",
+    "title": "True Wireless Earbuds",
+    "description": "Premium true wireless earbuds with active noise cancellation, 30-hour battery life, and crystal-clear sound. Features touch controls, IPX7 waterproof rating, and comfortable fit. Perfect for workouts, commutes, and daily use.",
+    "price": 14900,
+    "currency": "USD",
+    "image_url": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=400&h=400&fit=crop",
+    "category": "Electronics",
+    "in_stock": true,
+    "technical_info": {
+      "Battery": "8 hours (earbuds), 22 hours (case) = 30 hours total",
+      "Noise Cancellation": "Active Noise Cancellation (ANC)",
+      "Waterproof": "IPX7 (submersible up to 1m)",
+      "Connectivity": "Bluetooth 5.2",
+      "Drivers": "10mm dynamic drivers",
+      "Charging": "USB-C, wireless charging",
+      "Controls": "Touch controls, voice assistant",
+      "Microphones": "6 microphones with noise reduction",
+      "Weight": "5.4g per earbud",
+      "Warranty": "1 year"
+    },
+    "average_rating": 4.6,
+    "rating_count": 523,
+    "comments": [
+      {
+        "author": "Alex B.",
+        "rating": 5,
+        "text": "Amazing earbuds! The noise cancellation is incredible and the sound quality is outstanding. Battery life is excellent!",
+        "date": "2024-01-15",
+        "verified_purchase": true
+      },
+      {
+        "author": "Maria G.",
+        "rating": 5,
+        "text": "Best earbuds I've owned! The ANC works perfectly and they're comfortable for long listening sessions.",
+        "date": "2024-01-13",
+        "verified_purchase": true
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 4,
+        "text": "Great earbuds with good features. The sound quality is excellent and the battery life is impressive.",
+        "date": "2024-01-11",
+        "verified_purchase": true
+      },
+      {
+        "author": "Sophie L.",
+        "rating": 5,
+        "text": "Perfect for workouts! The waterproof rating gives me confidence and the fit is secure. Sound is amazing!",
+        "date": "2024-01-09",
+        "verified_purchase": true
+      },
+      {
+        "author": "Nathan W.",
+        "rating": 4,
+        "text": "Good earbuds with solid performance. The ANC is effective and the touch controls are responsive.",
+        "date": "2024-01-07",
+        "verified_purchase": true
+      }
+    ]
+  },
+  {
+    "id": "smart_thermostat",
+    "title": "Smart Wi-Fi Thermostat",
+    "description": "Energy-efficient smart thermostat with Wi-Fi connectivity and mobile app control. Features learning capabilities, geofencing, and energy usage reports. Save money on heating and cooling while maintaining perfect comfort.",
+    "price": 19900,
+    "currency": "USD",
+    "image_url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=400&fit=crop",
+    "category": "Home & Kitchen",
+    "in_stock": true,
+    "technical_info": {
+      "Connectivity": "Wi-Fi, Works with Alexa and Google",
+      "Display": "Full-color touchscreen",
+      "Compatibility": "Works with most HVAC systems",
+      "Features": "Learning, geofencing, scheduling",
+      "Energy Reports": "Monthly usage reports",
+      "Installation": "DIY-friendly (C-wire required)",
+      "Dimensions": "4.3\" x 4.3\" x 1\"",
+      "Power": "Battery or C-wire",
+      "Warranty": "3 years",
+      "App": "iOS and Android"
+    },
+    "average_rating": 4.5,
+    "rating_count": 234,
+    "comments": [
+      {
+        "author": "Patricia W.",
+        "rating": 5,
+        "text": "Great smart thermostat! The learning feature works perfectly and I've saved money on my energy bills.",
+        "date": "2024-01-14",
+        "verified_purchase": true
+      },
+      {
+        "author": "Steven H.",
+        "rating": 4,
+        "text": "Good smart thermostat with useful features. The app is easy to use and the scheduling works well.",
+        "date": "2024-01-12",
+        "verified_purchase": true
+      },
+      {
+        "author": "Karen D.",
+        "rating": 5,
+        "text": "Perfect addition to my smart home! The geofencing feature is convenient and the energy reports are helpful.",
+        "date": "2024-01-10",
+        "verified_purchase": true
+      },
+      {
+        "author": "Brian T.",
+        "rating": 4,
+        "text": "Nice thermostat with good features. Installation was straightforward and the app control is convenient.",
+        "date": "2024-01-08",
+        "verified_purchase": true
+      },
+      {
+        "author": "Diane M.",
+        "rating": 5,
+        "text": "Excellent smart thermostat! The learning capabilities are impressive and it's saved me money on utilities.",
+        "date": "2024-01-06",
+        "verified_purchase": true
+      }
+    ]
+  },
+  {
+    "id": "fitness_tracker",
+    "title": "Advanced Fitness Tracker",
+    "description": "Comprehensive fitness tracker with heart rate monitoring, sleep tracking, and 20+ activity modes. Features color display, GPS, and 7-day battery life. Track your steps, calories, workouts, and health metrics all in one device.",
+    "price": 9999,
+    "currency": "USD",
+    "image_url": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=400&h=400&fit=crop",
+    "category": "Electronics",
+    "in_stock": true,
+    "technical_info": {
+      "Display": "1.1-inch color AMOLED",
+      "Battery": "Up to 7 days",
+      "Sensors": "Heart rate, GPS, Accelerometer",
+      "Water Resistance": "5 ATM (50 meters)",
+      "Activity Modes": "20+ workout modes",
+      "Sleep Tracking": "Advanced sleep analysis",
+      "Connectivity": "Bluetooth 5.0",
+      "Compatibility": "iOS 13+, Android 8+",
+      "Weight": "38g",
+      "Warranty": "1 year"
+    },
+    "average_rating": 4.4,
+    "rating_count": 378,
+    "comments": [
+      {
+        "author": "Jessica K.",
+        "rating": 5,
+        "text": "Great fitness tracker! The heart rate monitoring is accurate and the sleep tracking is really insightful.",
+        "date": "2024-01-15",
+        "verified_purchase": true
+      },
+      {
+        "author": "Mark D.",
+        "rating": 4,
+        "text": "Good fitness tracker with lots of features. The GPS works well and the battery life is impressive.",
+        "date": "2024-01-13",
+        "verified_purchase": true
+      },
+      {
+        "author": "Nicole F.",
+        "rating": 5,
+        "text": "Perfect for tracking my workouts! The activity modes are comprehensive and the display is clear.",
+        "date": "2024-01-11",
+        "verified_purchase": true
+      },
+      {
+        "author": "Tom G.",
+        "rating": 4,
+        "text": "Nice fitness tracker with good features. The app is easy to use and syncs well with my phone.",
+        "date": "2024-01-09",
+        "verified_purchase": true
+      },
+      {
+        "author": "Rachel M.",
+        "rating": 5,
+        "text": "Excellent tracker! The sleep analysis is really helpful and the battery lasts a full week. Highly recommend!",
+        "date": "2024-01-07",
+        "verified_purchase": true
+      }
+    ]
+  },
+  {
+    "id": "camera_dslr",
+    "title": "Digital DSLR Camera",
+    "description": "Professional 24MP DSLR camera with 1080p video recording, interchangeable lens system, and advanced autofocus. Perfect for photography enthusiasts and content creators. Includes kit lens and accessories.",
+    "price": 59900,
+    "currency": "USD",
+    "image_url": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=400&h=400&fit=crop",
+    "category": "Electronics",
+    "in_stock": true,
+    "technical_info": {
+      "Sensor": "24.2MP APS-C CMOS",
+      "Video": "1080p Full HD @ 60fps",
+      "ISO Range": "100-25600",
+      "Autofocus": "45-point phase detection",
+      "Display": "3-inch vari-angle LCD",
+      "Viewfinder": "Optical viewfinder",
+      "Lens Mount": "EF-S mount",
+      "Connectivity": "Wi-Fi, Bluetooth, USB",
+      "Battery": "Up to 600 shots",
+      "Kit Lens": "18-55mm f/3.5-5.6 included"
+    },
+    "average_rating": 4.6,
+    "rating_count": 189,
+    "comments": [
+      {
+        "author": "Sarah M.",
+        "rating": 5,
+        "text": "Amazing camera! The image quality is outstanding and it's perfect for learning photography. Great value!",
+        "date": "2024-01-14",
+        "verified_purchase": true
+      },
+      {
+        "author": "Michael T.",
+        "rating": 4,
+        "text": "Great DSLR camera with good features. The autofocus is fast and the image quality is excellent.",
+        "date": "2024-01-12",
+        "verified_purchase": true
+      },
+      {
+        "author": "Jennifer L.",
+        "rating": 5,
+        "text": "Perfect for my photography hobby! The kit lens is decent and the camera is easy to use. Highly recommend!",
+        "date": "2024-01-10",
+        "verified_purchase": true
+      },
+      {
+        "author": "David K.",
+        "rating": 4,
+        "text": "Good camera with solid build quality. The Wi-Fi connectivity is convenient for transferring photos.",
+        "date": "2024-01-08",
+        "verified_purchase": true
+      },
+      {
+        "author": "Emily R.",
+        "rating": 5,
+        "text": "Excellent camera! The image quality is professional and it's perfect for both photos and videos.",
+        "date": "2024-01-06",
+        "verified_purchase": true
+      }
+    ]
+  },
+  {
+    "id": "desk_lamp_philips_premium",
+    "title": "Philips Hue Gooseneck Desk Lamp",
+    "description": "Premium LED desk lamp from Philips with advanced color temperature control and smart connectivity. Features adjustable brightness, multiple lighting modes, and sleek modern design. Perfect for professionals who demand quality lighting.",
+    "price": 8999,
+    "currency": "USD",
+    "image_url": "https://unsplash.com/photos/wsvCC6UyKjs/download?w=400&h=400&fit=crop",
+    "category": "Home & Kitchen",
+    "in_stock": true,
+    "technical_info": {
+      "Brand": "Philips",
+      "Light Source": "LED (non-flickering)",
+      "Brightness": "5 levels (10%-100%)",
+      "Color Temperature": "2700K-6500K (warm to cool)",
+      "Power": "8W LED",
+      "USB Port": "1x USB-A charging port",
+      "Controls": "Touch-sensitive with app control",
+      "Adjustability": "360° swivel, flexible gooseneck",
+      "Base": "Weighted, non-slip",
+      "Dimensions": "22\" height, 9\" base",
+      "Delivery": "Same Day Delivery",
+      "Warranty": "3 years"
+    },
+    "average_rating": 4.0,
+    "rating_count": 142,
+    "comments": [
+      {
+        "author": "Michael P.",
+        "rating": 4,
+        "text": "Great branded lamp with excellent build quality. The smart features are nice and the lighting is perfect.",
+        "date": "2024-01-14",
+        "verified_purchase": true
+      },
+      {
+        "author": "Sarah L.",
+        "rating": 4,
+        "text": "Good Philips lamp with solid features. The color temperature adjustment is useful for different tasks.",
+        "date": "2024-01-12",
+        "verified_purchase": true
+      },
+      {
+        "author": "David K.",
+        "rating": 4,
+        "text": "Nice premium lamp. The build quality feels sturdy and the lighting is even and comfortable.",
+        "date": "2024-01-10",
+        "verified_purchase": true
+      }
+    ]
+  },
+  {
+    "id": "desk_lamp_ikea_modern",
+    "title": "IKEA FORSÅ Desk Lamp",
+    "description": "Modern desk lamp from IKEA with adjustable arm and head. Features energy-efficient LED bulb, simple design, and reliable functionality. Great value for a well-known brand.",
+    "price": 4999,
+    "currency": "USD",
+    "image_url": "https://unsplash.com/photos/wsvCC6UyKjs/download?w=400&h=400&fit=crop",
+    "category": "Home & Kitchen",
+    "in_stock": true,
+    "technical_info": {
+      "Brand": "IKEA",
+      "Light Source": "LED (included)",
+      "Brightness": "Fixed brightness",
+      "Color Temperature": "3000K (warm white)",
+      "Power": "6W LED",
+      "Controls": "On/off switch",
+      "Adjustability": "Adjustable arm and head",
+      "Base": "Stable base",
+      "Dimensions": "18\" height, 7\" base",
+      "Delivery": "1 Day Delivery",
+      "Warranty": "2 years"
+    },
+    "average_rating": 4.0,
+    "rating_count": 98,
+    "comments": [
+      {
+        "author": "Jennifer M.",
+        "rating": 4,
+        "text": "Good IKEA lamp with simple design. Easy to assemble and works well for basic desk lighting needs.",
+        "date": "2024-01-13",
+        "verified_purchase": true
+      },
+      {
+        "author": "Robert T.",
+        "rating": 4,
+        "text": "Solid lamp from a trusted brand. The adjustable arm is convenient and the price is reasonable.",
+        "date": "2024-01-11",
+        "verified_purchase": true
+      },
+      {
+        "author": "Lisa H.",
+        "rating": 4,
+        "text": "Nice IKEA lamp. Good quality for the price and the design is clean and modern.",
+        "date": "2024-01-09",
+        "verified_purchase": true
+      }
+    ]
+  },
+  {
+    "id": "desk_lamp_local_bright",
+    "title": "BrightWorks Adjustable Desk Lamp",
+    "description": "Affordable LED desk lamp with touch controls and adjustable brightness. Features flexible gooseneck design and USB charging port. Great value from a local brand.",
+    "price": 2499,
+    "currency": "USD",
+    "image_url": "https://unsplash.com/photos/pdIwPL3HU2s/download?w=400&h=400&fit=crop",
+    "category": "Home & Kitchen",
+    "in_stock": true,
+    "technical_info": {
+      "Brand": "BrightWorks (Local)",
+      "Light Source": "LED",
+      "Brightness": "3 levels",
+      "Color Temperature": "4000K (neutral white)",
+      "Power": "5W LED",
+      "USB Port": "1x USB-A charging port",
+      "Controls": "Touch-sensitive",
+      "Adjustability": "Flexible gooseneck",
+      "Base": "Weighted base",
+      "Dimensions": "19\" height, 8\" base",
+      "Delivery": "Same Day Delivery",
+      "Warranty": "1 year"
+    },
+    "average_rating": 3.0,
+    "rating_count": 87,
+    "comments": [
+      {
+        "author": "Tom R.",
+        "rating": 3,
+        "text": "Decent lamp for the price. The brightness levels are okay but could be better. Works fine for basic use.",
+        "date": "2024-01-12",
+        "verified_purchase": true
+      },
+      {
+        "author": "Amanda S.",
+        "rating": 3,
+        "text": "Average lamp. The build quality is acceptable but nothing special. Good for budget buyers.",
+        "date": "2024-01-10",
+        "verified_purchase": true
+      },
+      {
+        "author": "Chris W.",
+        "rating": 3,
+        "text": "It works but feels a bit cheap. The lighting is adequate for desk work though.",
+        "date": "2024-01-08",
+        "verified_purchase": true
+      }
+    ]
+  },
+  {
+    "id": "desk_lamp_local_basic",
+    "title": "HomeGlow Basic Desk Lamp",
+    "description": "Simple and affordable desk lamp with basic on/off functionality. Features compact design and energy-efficient LED bulb. Perfect for students and budget-conscious buyers.",
+    "price": 1499,
+    "currency": "USD",
+    "image_url": "https://unsplash.com/photos/wsvCC6UyKjs/download?w=400&h=400&fit=crop",
+    "category": "Home & Kitchen",
+    "in_stock": true,
+    "technical_info": {
+      "Brand": "HomeGlow (Local)",
+      "Light Source": "LED bulb (included)",
+      "Brightness": "Fixed brightness",
+      "Color Temperature": "3000K (warm white)",
+      "Power": "4W LED",
+      "Controls": "On/off switch",
+      "Adjustability": "Fixed position",
+      "Base": "Compact base",
+      "Dimensions": "16\" height, 6\" base",
+      "Delivery": "3 Days Delivery",
+      "Warranty": "6 months"
+    },
+    "average_rating": 2.0,
+    "rating_count": 56,
+    "comments": [
+      {
+        "author": "Mark D.",
+        "rating": 2,
+        "text": "Very basic lamp. The build quality is poor and it feels flimsy. Works but not recommended.",
+        "date": "2024-01-11",
+        "verified_purchase": true
+      },
+      {
+        "author": "Nicole F.",
+        "rating": 2,
+        "text": "Cheaply made. The light is dim and the switch feels like it might break soon. You get what you pay for.",
+        "date": "2024-01-09",
+        "verified_purchase": true
+      },
+      {
+        "author": "Ryan P.",
+        "rating": 2,
+        "text": "Not great quality. The lamp wobbles and the light output is weak. Would not buy again.",
+        "date": "2024-01-07",
+        "verified_purchase": true
+      }
+    ]
+  },
+  {
+    "id": "desk_lamp_local_standard",
+    "title": "LiteMax Task Desk Lamp",
+    "description": "Standard LED desk lamp with adjustable brightness and flexible design. Features touch controls and modern styling. Reliable option from a local manufacturer.",
+    "price": 2999,
+    "currency": "USD",
+    "image_url": "https://unsplash.com/photos/wsvCC6UyKjs/download?w=400&h=400&fit=crop",
+    "category": "Home & Kitchen",
+    "in_stock": true,
+    "technical_info": {
+      "Brand": "LiteMax (Local)",
+      "Light Source": "LED",
+      "Brightness": "4 levels",
+      "Color Temperature": "3500K (neutral white)",
+      "Power": "6W LED",
+      "Controls": "Touch-sensitive",
+      "Adjustability": "Adjustable head",
+      "Base": "Stable weighted base",
+      "Dimensions": "20\" height, 8\" base",
+      "Delivery": "3 Days Delivery",
+      "Warranty": "1 year"
+    },
+    "average_rating": 3.0,
+    "rating_count": 112,
+    "comments": [
+      {
+        "author": "Jessica K.",
+        "rating": 3,
+        "text": "Okay lamp for the price. The brightness adjustment works but the touch controls can be finicky sometimes.",
+        "date": "2024-01-13",
+        "verified_purchase": true
+      },
+      {
+        "author": "Daniel H.",
+        "rating": 3,
+        "text": "Decent quality. The lamp does its job but nothing exceptional. Good value for money.",
+        "date": "2024-01-11",
+        "verified_purchase": true
+      },
+      {
+        "author": "Sophie L.",
+        "rating": 3,
+        "text": "Average lamp. It works fine for desk lighting but the build quality could be better.",
+        "date": "2024-01-09",
+        "verified_purchase": true
+      }
+    ]
+  },
+  {
+    "id": "desk_lamp_local_pro",
+    "title": "ProLight Professional Desk Lamp",
+    "description": "Professional-grade LED desk lamp with advanced features. Includes color temperature adjustment, memory function, and premium build quality. Great for home offices.",
+    "price": 5499,
+    "currency": "USD",
+    "image_url": "https://unsplash.com/photos/pdIwPL3HU2s/download?w=400&h=400&fit=crop",
+    "category": "Home & Kitchen",
+    "in_stock": true,
+    "technical_info": {
+      "Brand": "ProLight (Local)",
+      "Light Source": "LED (non-flickering)",
+      "Brightness": "5 levels (10%-100%)",
+      "Color Temperature": "3000K-6000K adjustable",
+      "Power": "7W LED",
+      "USB Port": "1x USB-A charging port",
+      "Controls": "Touch-sensitive with memory",
+      "Adjustability": "360° swivel, flexible gooseneck",
+      "Base": "Weighted, non-slip",
+      "Dimensions": "21\" height, 8.5\" base",
+      "Delivery": "5-7 Days Delivery",
+      "Warranty": "2 years"
+    },
+    "average_rating": 4.0,
+    "rating_count": 203,
+    "comments": [
+      {
+        "author": "Patricia W.",
+        "rating": 4,
+        "text": "Great lamp for the price! The color temperature adjustment is excellent and the build quality is solid.",
+        "date": "2024-01-14",
+        "verified_purchase": true
+      },
+      {
+        "author": "Steven H.",
+        "rating": 4,
+        "text": "Very good lamp. The memory function is convenient and the lighting is perfect for work.",
+        "date": "2024-01-12",
+        "verified_purchase": true
+      },
+      {
+        "author": "Karen D.",
+        "rating": 4,
+        "text": "Excellent value. The features are great and the quality is better than expected for a local brand.",
+        "date": "2024-01-10",
+        "verified_purchase": true
+      }
+    ]
+  },
+  {
+    "id": "desk_lamp_local_economy",
+    "title": "EconoLite Budget Desk Lamp",
+    "description": "Budget-friendly desk lamp with basic LED lighting. Simple design with on/off functionality. Perfect for those who need basic desk illumination without frills.",
+    "price": 999,
+    "currency": "USD",
+    "image_url": "https://unsplash.com/photos/wsvCC6UyKjs/download?w=400&h=400&fit=crop",
+    "category": "Home & Kitchen",
+    "in_stock": true,
+    "technical_info": {
+      "Brand": "EconoLite (Local)",
+      "Light Source": "LED",
+      "Brightness": "Fixed brightness",
+      "Color Temperature": "4000K (neutral white)",
+      "Power": "3W LED",
+      "Controls": "On/off switch",
+      "Adjustability": "Fixed position",
+      "Base": "Small base",
+      "Dimensions": "14\" height, 5\" base",
+      "Delivery": "5-7 Days Delivery",
+      "Warranty": "3 months"
+    },
+    "average_rating": 2.0,
+    "rating_count": 34,
+    "comments": [
+      {
+        "author": "Brian T.",
+        "rating": 2,
+        "text": "Very cheap quality. The lamp is flimsy and the light is quite dim. Not worth it even at this price.",
+        "date": "2024-01-10",
+        "verified_purchase": true
+      },
+      {
+        "author": "Diane M.",
+        "rating": 2,
+        "text": "Poor build quality. The lamp feels like it could break easily. The light output is weak.",
+        "date": "2024-01-08",
+        "verified_purchase": true
+      },
+      {
+        "author": "James K.",
+        "rating": 2,
+        "text": "Not recommended. Very basic and low quality. Spend a bit more for something better.",
+        "date": "2024-01-06",
+        "verified_purchase": true
+      }
+    ]
+  },
+  {
+    "id": "desk_lamp_local_comfort",
+    "title": "ComfortLight Ergonomic Desk Lamp",
+    "description": "Ergonomic LED desk lamp designed for eye comfort. Features flicker-free lighting, adjustable brightness, and flexible positioning. Good mid-range option from a local brand.",
+    "price": 3499,
+    "currency": "USD",
+    "image_url": "https://unsplash.com/photos/wsvCC6UyKjs/download?w=400&h=400&fit=crop",
+    "category": "Home & Kitchen",
+    "in_stock": true,
+    "technical_info": {
+      "Brand": "ComfortLight (Local)",
+      "Light Source": "LED (flicker-free)",
+      "Brightness": "5 levels",
+      "Color Temperature": "4000K (neutral white)",
+      "Power": "6W LED",
+      "Controls": "Touch-sensitive",
+      "Adjustability": "Flexible gooseneck, adjustable head",
+      "Base": "Weighted base",
+      "Dimensions": "19\" height, 7.5\" base",
+      "Delivery": "5-7 Days Delivery",
+      "Warranty": "1 year"
+    },
+    "average_rating": 3.0,
+    "rating_count": 145,
+    "comments": [
+      {
+        "author": "Maria G.",
+        "rating": 3,
+        "text": "Decent lamp with good features. The flicker-free lighting is nice and it's comfortable for long work sessions.",
+        "date": "2024-01-13",
+        "verified_purchase": true
+      },
+      {
+        "author": "Alex B.",
+        "rating": 3,
+        "text": "Good value lamp. The ergonomic design is helpful and the brightness adjustment works well.",
+        "date": "2024-01-11",
+        "verified_purchase": true
+      },
+      {
+        "author": "Nathan W.",
+        "rating": 3,
+        "text": "Average quality. It does the job but the build could be sturdier. Okay for the price.",
+        "date": "2024-01-09",
+        "verified_purchase": true
+      }
+    ]
+  },
+  {
+    "id": "desk_lamp_local_premium",
+    "title": "LuxStyle Premium Desk Lamp",
+    "description": "Premium LED desk lamp with advanced features and elegant design. Features wireless charging, color temperature control, and premium materials. High-end option from a local brand.",
+    "price": 6999,
+    "currency": "USD",
+    "image_url": "https://unsplash.com/photos/pdIwPL3HU2s/download?w=400&h=400&fit=crop",
+    "category": "Home & Kitchen",
+    "in_stock": true,
+    "technical_info": {
+      "Brand": "LuxStyle (Local)",
+      "Light Source": "LED (non-flickering)",
+      "Brightness": "10 levels (5%-100%)",
+      "Color Temperature": "2700K-6500K adjustable",
+      "Power": "9W LED",
+      "USB Port": "1x USB-A, Wireless charging pad",
+      "Controls": "Touch-sensitive with timer",
+      "Adjustability": "360° swivel, flexible gooseneck",
+      "Base": "Premium weighted base",
+      "Dimensions": "23\" height, 9\" base",
+      "Delivery": "5-7 Days Delivery",
+      "Warranty": "3 years"
+    },
+    "average_rating": 4.0,
+    "rating_count": 178,
+    "comments": [
+      {
+        "author": "David L.",
+        "rating": 4,
+        "text": "Excellent lamp! The wireless charging is a great feature and the build quality is impressive.",
+        "date": "2024-01-14",
+        "verified_purchase": true
+      },
+      {
+        "author": "Jennifer R.",
+        "rating": 4,
+        "text": "Great premium lamp. The color temperature range is excellent and the design is beautiful.",
+        "date": "2024-01-12",
+        "verified_purchase": true
+      },
+      {
+        "author": "Robert M.",
+        "rating": 4,
+        "text": "Very good quality for a local brand. The features are comprehensive and the lighting is perfect.",
+        "date": "2024-01-10",
+        "verified_purchase": true
+      }
+    ]
+  },
+  {
+    "id": "desk_lamp_local_minimal",
+    "title": "Minimalist Simple Desk Lamp",
+    "description": "Minimalist design desk lamp with clean lines and basic functionality. Features simple on/off control and compact footprint. Affordable option for those who prefer simplicity.",
+    "price": 1999,
+    "currency": "USD",
+    "image_url": "https://unsplash.com/photos/wsvCC6UyKjs/download?w=400&h=400&fit=crop",
+    "category": "Home & Kitchen",
+    "in_stock": true,
+    "technical_info": {
+      "Brand": "SimpleLite (Local)",
+      "Light Source": "LED",
+      "Brightness": "Fixed brightness",
+      "Color Temperature": "3500K (neutral white)",
+      "Power": "4W LED",
+      "Controls": "On/off switch",
+      "Adjustability": "Minimal adjustment",
+      "Base": "Compact base",
+      "Dimensions": "17\" height, 6.5\" base",
+      "Delivery": "5-7 Days Delivery",
+      "Warranty": "6 months"
+    },
+    "average_rating": 2.0,
+    "rating_count": 67,
+    "comments": [
+      {
+        "author": "Michelle S.",
+        "rating": 2,
+        "text": "Very basic lamp. The minimalist design is nice but the quality is lacking. Feels cheap.",
+        "date": "2024-01-11",
+        "verified_purchase": true
+      },
+      {
+        "author": "James K.",
+        "rating": 2,
+        "text": "Not great. The lamp is functional but the build quality is poor. Would look for something better.",
+        "date": "2024-01-09",
+        "verified_purchase": true
+      },
+      {
+        "author": "Chris B.",
+        "rating": 2,
+        "text": "Cheaply made. The light is okay but the overall quality is disappointing.",
+        "date": "2024-01-07",
+        "verified_purchase": true
+      }
+    ]
+  }
+]
