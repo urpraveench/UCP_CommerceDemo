@@ -20,6 +20,10 @@
                         🤖 AI Agent Shopping
                     </button>
                 </div>
+                <button id="cart-icon-btn" class="cart-icon-btn" onclick="openCartModal()">
+                    🛒
+                    <span id="cart-badge" class="cart-badge" style="display: none;">0</span>
+                </button>
                 <button id="load-profile" class="btn btn-primary btn-sm">Discover Business Profile</button>
                 <button id="toggle-api-viewer" class="btn-toggle">Toggle API Viewer</button>
             </div>
@@ -39,40 +43,6 @@
                         <button id="load-all-products" class="btn btn-secondary">Load All Products</button>
                     </div>
                     <div id="products-grid" class="products-grid"></div>
-                </section>
-
-                <!-- Shopping Cart Section -->
-                <section id="cart-section" class="section">
-                    <h2>Shopping Cart</h2>
-                    <div id="cart-items" class="cart-items"></div>
-                    <div id="cart-totals" class="cart-totals"></div>
-                    <div class="cart-actions">
-                        <button id="create-checkout" class="btn btn-primary" disabled>Create Checkout Session</button>
-                    </div>
-                </section>
-
-                <!-- Checkout Section -->
-                <section id="checkout-section" class="section" style="display: none;">
-                    <h2>Checkout Session</h2>
-                    <div class="checkout-form">
-                        <div class="form-group">
-                            <label for="buyer-name">Full Name:</label>
-                            <input type="text" id="buyer-name" placeholder="John Doe" required>
-                        </div>
-                        <div class="form-group">
-                            <label for="buyer-email">Email:</label>
-                            <input type="email" id="buyer-email" placeholder="john.doe@example.com" required>
-                        </div>
-                        <div class="form-group">
-                            <label for="discount-code">Discount Code (optional):</label>
-                            <input type="text" id="discount-code" placeholder="10OFF, SAVE20, or FREESHIP">
-                        </div>
-                        <div class="checkout-actions">
-                            <button id="update-checkout" class="btn btn-secondary">Apply Discount</button>
-                            <button id="complete-checkout" class="btn btn-success">Complete Checkout</button>
-                        </div>
-                    </div>
-                    <pre id="checkout-output" class="output"></pre>
                 </section>
             </main>
         </div>
@@ -136,6 +106,41 @@
         <div class="product-modal-content" onclick="event.stopPropagation();">
             <button class="product-modal-close" onclick="closeProductModal()" aria-label="Close">&times;</button>
             <div id="product-detail-content"></div>
+        </div>
+    </div>
+
+    <!-- Shopping Cart Modal -->
+    <div id="cart-modal" class="cart-modal" onclick="if(event.target === this) closeCartModal();">
+        <div class="cart-modal-content" onclick="event.stopPropagation();">
+            <button class="cart-modal-close" onclick="closeCartModal()" aria-label="Close">&times;</button>
+            <h2>Shopping Cart</h2>
+            <div id="cart-modal-items" class="cart-items"></div>
+            <div id="cart-modal-totals" class="cart-totals"></div>
+            <div class="cart-actions">
+                <button id="create-checkout" class="btn btn-primary" disabled>Create Checkout Session</button>
+            </div>
+            <div id="checkout-form-container" style="display: none;">
+                <h3>Checkout Session</h3>
+                <div class="checkout-form">
+                    <div class="form-group">
+                        <label for="buyer-name">Full Name:</label>
+                        <input type="text" id="buyer-name" placeholder="John Doe" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="buyer-email">Email:</label>
+                        <input type="email" id="buyer-email" placeholder="john.doe@example.com" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="discount-code">Discount Code (optional):</label>
+                        <input type="text" id="discount-code" placeholder="10OFF, SAVE20, or FREESHIP">
+                    </div>
+                    <div class="checkout-actions">
+                        <button id="update-checkout" class="btn btn-secondary">Apply Discount</button>
+                        <button id="complete-checkout" class="btn btn-success">Complete Checkout</button>
+                    </div>
+                </div>
+
+            </div>
         </div>
     </div>
 

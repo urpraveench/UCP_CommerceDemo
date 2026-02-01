@@ -14,6 +14,31 @@ let conversationHistory = [];
 let isAIAgentMode = false;
 let lastSearchedProducts = [];
 
+// Cart Modal Functions - Define early for onclick handlers in HTML
+function openCartModal() {
+    const modal = document.getElementById('cart-modal');
+    if (modal) {
+        modal.style.display = 'flex';
+        document.body.style.overflow = 'hidden';
+        // Update cart display when opening modal
+        if (typeof updateCartDisplay === 'function') {
+            updateCartDisplay();
+        }
+    }
+}
+
+function closeCartModal() {
+    const modal = document.getElementById('cart-modal');
+    if (modal) {
+        modal.style.display = 'none';
+        document.body.style.overflow = '';
+    }
+}
+
+// Make functions available immediately for onclick handlers
+window.openCartModal = openCartModal;
+window.closeCartModal = closeCartModal;
+
 // Initialize
 document.addEventListener('DOMContentLoaded', () => {
     setupEventListeners();
@@ -54,12 +79,15 @@ function setupEventListeners() {
         });
     }
     
-    // Keyboard support for modal
+    // Keyboard support for modals
     document.addEventListener('keydown', (e) => {
         if (e.key === 'Escape') {
-            const modal = document.getElementById('product-detail-modal');
-            if (modal && modal.style.display === 'flex') {
+            const productModal = document.getElementById('product-detail-modal');
+            const cartModal = document.getElementById('cart-modal');
+            if (productModal && productModal.style.display === 'flex') {
                 closeProductModal();
+            } else if (cartModal && cartModal.style.display === 'flex') {
+                closeCartModal();
             }
         }
     });
@@ -429,7 +457,12 @@ function addToCart(productId, title, price) {
         });
     }
     
-    updateCartDisplay();
+    // Safely update cart display
+    try {
+        updateCartDisplay();
+    } catch (error) {
+        console.error('Error updating cart display:', error);
+    }
 }
 
 function removeFromCart(productId) {
@@ -450,62 +483,102 @@ function updateCartQuantity(productId, quantity) {
 }
 
 function updateCartDisplay() {
-    const cartItems = document.getElementById('cart-items');
-    const cartTotals = document.getElementById('cart-totals');
+    // Safely get all elements with null checks
+    const cartItems = document.getElementById('cart-modal-items');
+    const cartTotals = document.getElementById('cart-modal-totals');
     const createCheckoutBtn = document.getElementById('create-checkout');
+    const cartBadge = document.getElementById('cart-badge');
     
+    // Update cart badge - always safe to update if element exists
+    const totalItems = cart.reduce((sum, item) => sum + item.quantity, 0);
+    if (cartBadge) {
+        try {
+            if (totalItems > 0) {
+                cartBadge.textContent = totalItems;
+                cartBadge.style.display = 'inline-block';
+            } else {
+                cartBadge.style.display = 'none';
+            }
+        } catch (error) {
+            console.error('Error updating cart badge:', error);
+        }
+    }
+    
+    // Handle empty cart
     if (cart.length === 0) {
-        cartItems.innerHTML = '<div class="empty-state"><p>Your cart is empty</p></div>';
-        cartTotals.innerHTML = '';
-        createCheckoutBtn.disabled = true;
+        try {
+            if (cartItems) cartItems.innerHTML = '<div class="empty-state"><p>Your cart is empty</p></div>';
+            if (cartTotals) cartTotals.innerHTML = '';
+            if (createCheckoutBtn) createCheckoutBtn.disabled = true;
+        } catch (error) {
+            console.error('Error updating empty cart display:', error);
+        }
         return;
     }
     
-    // Display cart items
-    cartItems.innerHTML = cart.map(item => {
-        const subtotal = item.price * item.quantity;
-        return `
-            <div class="cart-item">
-                <div class="cart-item-info">
-                    <h4>${item.title}</h4>
-                    <div class="quantity">Quantity: 
-                        <button onclick="updateCartQuantity('${item.id}', ${item.quantity - 1})" 
-                                style="padding: 2px 8px; margin: 0 5px;">-</button>
-                        ${item.quantity}
-                        <button onclick="updateCartQuantity('${item.id}', ${item.quantity + 1})" 
-                                style="padding: 2px 8px; margin: 0 5px;">+</button>
+    // Display cart items - only if element exists
+    if (cartItems) {
+        try {
+            cartItems.innerHTML = cart.map(item => {
+            const subtotal = item.price * item.quantity;
+            return `
+                <div class="cart-item">
+                    <div class="cart-item-info">
+                        <h4>${item.title}</h4>
+                        <div class="quantity">Quantity: 
+                            <button onclick="updateCartQuantity('${item.id}', ${item.quantity - 1})" 
+                                    style="padding: 2px 8px; margin: 0 5px;">-</button>
+                            ${item.quantity}
+                            <button onclick="updateCartQuantity('${item.id}', ${item.quantity + 1})" 
+                                    style="padding: 2px 8px; margin: 0 5px;">+</button>
+                        </div>
                     </div>
+                    <div class="cart-item-price">$${(subtotal / 100).toFixed(2)}</div>
+                    <button class="btn btn-secondary" onclick="removeFromCart('${item.id}')" 
+                            style="padding: 8px 16px; margin-left: 10px;">Remove</button>
                 </div>
-                <div class="cart-item-price">$${(subtotal / 100).toFixed(2)}</div>
-                <button class="btn btn-secondary" onclick="removeFromCart('${item.id}')" 
-                        style="padding: 8px 16px; margin-left: 10px;">Remove</button>
-            </div>
-        `;
-    }).join('');
+            `;
+            }).join('');
+        } catch (error) {
+            console.error('Error updating cart items:', error);
+        }
+    }
     
     // Calculate totals
     const subtotal = cart.reduce((sum, item) => sum + (item.price * item.quantity), 0);
     const discount = currentCheckoutSession?.discounts?.applied?.reduce((sum, d) => sum + (typeof d === 'object' ? d.amount : 0), 0) || 0;
     const total = subtotal - discount;
     
-    cartTotals.innerHTML = `
-        <div class="total-line">
-            <span>Subtotal:</span>
-            <span>$${(subtotal / 100).toFixed(2)}</span>
-        </div>
-        ${discount > 0 ? `
+    if (cartTotals) {
+        try {
+            cartTotals.innerHTML = `
             <div class="total-line">
-                <span>Discount:</span>
-                <span style="color: #28a745;">-$${(discount / 100).toFixed(2)}</span>
+                <span>Subtotal:</span>
+                <span>$${(subtotal / 100).toFixed(2)}</span>
             </div>
-        ` : ''}
-        <div class="total-line final">
-            <span>Total:</span>
-            <span>$${(total / 100).toFixed(2)}</span>
-        </div>
-    `;
+            ${discount > 0 ? `
+                <div class="total-line">
+                    <span>Discount:</span>
+                    <span style="color: #28a745;">-$${(discount / 100).toFixed(2)}</span>
+                </div>
+            ` : ''}
+            <div class="total-line final">
+                <span>Total:</span>
+                <span>$${(total / 100).toFixed(2)}</span>
+            </div>
+        `;
+        } catch (error) {
+            console.error('Error updating cart totals:', error);
+        }
+    }
     
-    createCheckoutBtn.disabled = false;
+    if (createCheckoutBtn) {
+        try {
+            createCheckoutBtn.disabled = false;
+        } catch (error) {
+            console.error('Error updating checkout button:', error);
+        }
+    }
 }
 
 // Checkout Session Management
@@ -551,11 +624,13 @@ async function createCheckoutSession() {
         });
         
         currentCheckoutSession = data;
-        displayOutput('checkout-output', data);
-        document.getElementById('checkout-section').style.display = 'block';
+
         
-        // Scroll to checkout section
-        document.getElementById('checkout-section').scrollIntoView({ behavior: 'smooth' });
+        // Show checkout form in modal
+        const checkoutFormContainer = document.getElementById('checkout-form-container');
+        if (checkoutFormContainer) {
+            checkoutFormContainer.style.display = 'block';
+        }
     } catch (error) {
         console.error('Error creating checkout:', error);
         alert('Error creating checkout session: ' + error.message);
@@ -614,7 +689,7 @@ async function updateCheckoutSession() {
         });
         
         currentCheckoutSession = data;
-        displayOutput('checkout-output', data);
+
         updateCartDisplay();
     } catch (error) {
         console.error('Error updating checkout:', error);
@@ -636,7 +711,7 @@ async function completeCheckout() {
         });
         
         currentCheckoutSession = data;
-        displayOutput('checkout-output', data);
+
         
         alert('Checkout completed successfully! 🎉');
         
@@ -644,7 +719,17 @@ async function completeCheckout() {
         cart = [];
         currentCheckoutSession = null;
         updateCartDisplay();
-        document.getElementById('checkout-section').style.display = 'none';
+        
+        // Hide checkout form in modal
+        const checkoutFormContainer = document.getElementById('checkout-form-container');
+        if (checkoutFormContainer) {
+            checkoutFormContainer.style.display = 'none';
+        }
+        
+        // Close modal after a short delay
+        setTimeout(() => {
+            closeCartModal();
+        }, 1500);
     } catch (error) {
         console.error('Error completing checkout:', error);
         alert('Error completing checkout: ' + error.message);
@@ -860,6 +945,8 @@ function closeProductModal() {
         document.body.style.overflow = ''; // Restore scrolling
     }
 }
+
+// Cart Modal Functions - Already defined at top of file for early availability
 
 function switchProductTab(tabName) {
     // Hide all tab panes
@@ -1226,6 +1313,8 @@ window.removeFromCart = removeFromCart;
 window.updateCartQuantity = updateCartQuantity;
 window.showProductDetails = showProductDetails;
 window.closeProductModal = closeProductModal;
+window.openCartModal = openCartModal;
+window.closeCartModal = closeCartModal;
 window.switchProductTab = switchProductTab;
 window.switchShoppingMode = switchShoppingMode;
 window.aiAgentAddToCart = aiAgentAddToCart;

@@ -42,8 +42,12 @@ Example interactions:
 
 Always be helpful and make shopping easy and enjoyable!"""
 
-User_Shopping_behaviour = """When recommending the product use the below information as preferences.
-Delivery will be faster.
-Average rating should be minimum 4.
-Prefer notable brands if available."""
+# User_Shopping_behaviour = """When recommending the product use the below information as preferences.
+# Delivery will be faster.
+# Average rating should be minimum 4.
+# Prefer notable brands if available."""
 
+User_Shopping_behaviour = """When recommending the product use the below information as preferences.
+Price should be less.
+Average rating should be minimum 3.
+"""
