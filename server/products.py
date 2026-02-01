@@ -58,10 +58,12 @@ def search_products(query: Optional[str] = None, category: Optional[str] = None)
     results = PRODUCT_CATALOG.copy()
     
     if query:
-        query_lower = query.lower()
+        # Token-based search (AND logic)
+        # Split query into tokens and check if ALL tokens are present in either title or description
+        query_tokens = query.lower().split()
         results = [
             p for p in results
-            if query_lower in p.title.lower() or query_lower in p.description.lower()
+            if all((token in p.title.lower() or token in p.description.lower()) for token in query_tokens)
         ]
     
     if category:

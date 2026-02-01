@@ -177,7 +177,7 @@ def get_ucp_tools() -> List[Dict[str, Any]]:
                     "properties": {
                         "query": {
                             "type": "string",
-                            "description": "Search query to find products (e.g., 'laptop', 'headphones', 'coffee maker')"
+                            "description": "Search query to find products. Use specific terms from the user's request (e.g., 'desk lamp' instead of just 'desk') to verify specific matches."
                         },
                         "category": {
                             "type": "string",
